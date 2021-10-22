@@ -143,7 +143,7 @@ I hope you enjoy the cipher.   You can download the program so that you have an 
 I believe that asymmetric encryption is better than symmetric encryption such as this one due to the ability to send the key.  This program could possibly be tweaked to incorporate an asymmetric key. However, this cipher has its advantages as you can see exactly how the code is encrypted and should be impervious to all attacks except for brute force or by unsecure pass codes
 
 ## How to run 
-#### Clone the repository
+- **Clone the repository**
 ```bash
 https://github.com/melpore/SP_network_cipher/
 ```
