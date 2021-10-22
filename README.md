@@ -1,7 +1,8 @@
   ![banner](./readme-images/banner.jpeg)
 
 
-This is an encryption program using a substitution – permutation network.  The cipher uses a symmetric key- so the same key is used for encryption and decryption           
+This is an encryption program using a substitution – permutation network.  The cipher uses a symmetric key- so the same key is used for encryption and decryption.  
+The cipher contains a Vigenere cipher, Hill cipher, column transposition, chain addition, ADFGVX-type array cipher and among other permutation ciphers.
 
 ![plain-to-cipher-text](./readme-images/plain-to-cipher-text.gif)
 
