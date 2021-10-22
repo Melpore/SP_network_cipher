@@ -145,7 +145,7 @@ I believe that asymmetric encryption is better than symmetric encryption such as
 ## How to run 
 #### Clone the repository
 ```bash
-https://github.com/melpore/SP_network_cipher/SP_network_cipher.py
+https://github.com/melpore/SP_network_cipher/
 ```
 Run the python program.  
 Follow the instructions.  
